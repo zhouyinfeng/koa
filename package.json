@@ -1,0 +1,29 @@
+{
+  "name": "koa-demos",
+  "version": "1.0.0",
+  "description": "a collection of simple demos of Koa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Koa",
+    "Node"
+  ],
+  "author": "zyf",
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "fs.promised": "^3.0.0",
+    "koa": "^2.3.0",
+    "koa-body": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-compose": "^4.0.0",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.3.0",
+    "koa-static": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhouyinfeng/koa.git"
+  }
+}
